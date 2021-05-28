@@ -9,7 +9,7 @@
         <class>com.umanizales.apibatallanaval.model.entities.Usuario</class>
 
         <properties>
-            <property name="javax.persistence.schema-generation.database.action" value="create"/>
+            <property name="javax.persistence.schema-generation.database.action" value="none"/>
         </properties>
     </persistence-unit>
 </persistence>
